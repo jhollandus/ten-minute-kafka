@@ -1,12 +1,14 @@
 :css: css/presentation.css
 :skip-help: true
+:data-transition-duration: 2000
 
-.. title:: Kafka Quickly
+.. title:: Kafka in a Flash
 
-Kafka Quickly
-=============
+Kafka in a Flash
+================
 
 ----
+
 
 What Is Kafka
 =============
@@ -110,9 +112,7 @@ Differences from the Rest
 =========================
 
  * Ordered partitions
-
-  * Simple files
-
+ * Simple data structures
  * Append only
  * Pull based only
  * Replication works
@@ -122,3 +122,4 @@ Differences from the Rest
 
 Questions
 =========
+
